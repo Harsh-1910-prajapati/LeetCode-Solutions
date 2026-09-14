@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 ## Array
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 ## Manacher
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
