@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 ## Sliding Window
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0836-rectangle-overlap](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 ## Recursion
 |  |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
