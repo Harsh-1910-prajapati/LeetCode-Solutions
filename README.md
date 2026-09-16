@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0835-image-overlap](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0835-image-overlap) |
 ## Binary Search
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Manacher
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
