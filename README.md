@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0836-rectangle-overlap](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Monotonic Stack
 |  |
 | ------- |
