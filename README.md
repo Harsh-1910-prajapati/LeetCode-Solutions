@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0835-image-overlap](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0068-text-justification) |
 ## Combinatorics
 |  |
 | ------- |
