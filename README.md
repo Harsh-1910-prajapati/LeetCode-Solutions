@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
