@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
