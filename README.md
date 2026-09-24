@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0836-rectangle-overlap](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
