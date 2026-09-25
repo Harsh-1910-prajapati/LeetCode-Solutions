@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -411,4 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
