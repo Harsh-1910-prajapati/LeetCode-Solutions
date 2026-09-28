@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Math
 |  |
 | ------- |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1096-brace-expansion-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
