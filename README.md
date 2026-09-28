@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [1096-brace-expansion-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
