@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0835-image-overlap](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
