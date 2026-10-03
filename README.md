@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [1096-brace-expansion-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -593,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Harsh-1910-prajapati/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
